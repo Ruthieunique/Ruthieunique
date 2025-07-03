@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate a passionate educator and software developer in training at ALX. I bring problem-solving, project organization, and creative thinking into everything I do from teaching kids to code to building real-world tech solutions. With a background in virtual assistance and education, I’m now focused on building impactful, user-centered applications and empowering others to thrive in tech.
+I'm a passionate educator and software developer in training at ALX. I bring problem-solving, project organization, and creative thinking into everything I do from teaching kids to code to building real-world tech solutions. With a background in virtual assistance and education, I’m now focused on building impactful, user-centered applications and empowering others to thrive in tech.
 - 🌱 Currently learning: HTML, CSS, and JavaScript
 - 🌱 Passionate about digital literacy, youth empowerment & innovation
 - 🌍 Working toward a future where tech skills are accessible to all
